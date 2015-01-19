@@ -1,0 +1,2740 @@
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 50.000000
+
+
+ 15Scenes :
+training num : 50.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 20.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 50.000000
+
+
+ 15Scenes :
+training num : 50.000000
+
+
+ 15Scenes :
+training num : 50.000000
+
+
+ 15Scenes :
+training num : 50.000000
+
+
+ 15Scenes :
+training num : 50.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 60.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ 15Scenes :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 40.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 10.000000
+
+
+ event8 :
+training num : 30.000000
+
+
+ event8 :
+training num : 30.000000
+
+
+ event8 :
+training num : 30.000000
+
+
+ event8 :
+training num : 30.000000
+
+
+ event8 :
+training num : 30.000000
+
+
+ event8 :
+training num : 30.000000
+
+
+ event8 :
+training num : 30.000000
+
+
+ event8 :
+training num : 30.000000
+
+
+ event8 :
+training num : 30.000000
+
+
+ event8 :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
+
+
+ 15Scenes :
+training num : 30.000000
